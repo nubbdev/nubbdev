@@ -13,8 +13,6 @@
 [<img align="left" alt="Nubb Dev | nubb.dev" width="22px" src="https://nubbdev.github.io/static/assets/images/icon/svg/globe.svg" />][website]
 [<img align="left" alt="Nubb Dev | Instagram" width="22px" src="https://nubbdev.github.io/static/assets/images/icon/svg/instagram.svg" />][instagram]
 [<img align="left" alt="Nubb Dev | Dribbble" width="22px" src="https://nubbdev.github.io/static/assets/images/icon/svg/dribbble.svg" />][dribbble]
-[<img align="left" alt="Nubb Dev | LinkedIn" width="22px" src="https://nubbdev.github.io/static/assets/images/icon/svg/linkedin.svg" />][linkedin]
-
 
 [website]: https://nubb.dev
 [dribbble]: https://dribbble.com/nubbdev
